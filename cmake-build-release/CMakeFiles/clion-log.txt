@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /mnt/d/CPP/wordcount
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/CPP/wordcount/cmake-build-release

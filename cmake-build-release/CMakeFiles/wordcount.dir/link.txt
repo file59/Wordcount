@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -std=c++14 -pthread -O3   CMakeFiles/wordcount.dir/main.cpp.o CMakeFiles/wordcount.dir/parser.cpp.o  -o wordcount  /usr/lib/x86_64-linux-gnu/libboost_program_options.a /usr/lib/x86_64-linux-gnu/libboost_regex.a 
